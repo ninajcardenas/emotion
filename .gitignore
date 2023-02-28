@@ -1,0 +1,5 @@
+main.py
+.gitattributes
+.DS_Store
+.idea
+.ipynb_checkpoints
