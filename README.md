@@ -49,7 +49,7 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/
   - [x] Data augmentation
 - [x] CNN Model
 - [x] Add README.md
-  - [ ] Add installation guidance
+  - [ ] Add installation guide
   - [ ] Add references
 - [ ] Fine-tuning
   - [ ] Keras tuner for model hyperparameters
@@ -58,6 +58,7 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/
   - [ ] Investigate number of filters in convolutional layer
   - [ ] Optimize pre-processing to make it more robust
 - [x] Add real-time prediction feature
+- [ ] Add real-time model learning from user feedback
 - [ ] Cleanup code
 
 ---
