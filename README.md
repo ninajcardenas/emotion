@@ -17,7 +17,7 @@
 ## Description
 
 This project was made to further explore Convolutional Neural Networks (CNN) for Computer Vision applications. 
-The dataset employed is the FER2013.
+The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/fer2013). 
 
 ---
 

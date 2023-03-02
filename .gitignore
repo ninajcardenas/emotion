@@ -4,3 +4,4 @@ main.py
 .idea
 .ipynb_checkpoints
 fer2013.csv
+haarcascade_frontalface_default.xml
