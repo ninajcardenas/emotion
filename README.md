@@ -31,7 +31,7 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/
 
 <b> Test Accuracy: </b> 
 
-![57%](https://progress-bar.dev/57)
+![63%](https://progress-bar.dev/63)
 
 <br>
 
@@ -51,8 +51,13 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/
 - [x] Add README.md
   - [ ] Add installation guidance
   - [ ] Add references
-- [ ] Keras tuner for model hyperparameters
-- [ ] Add real-time prediction feature
+- [ ] Fine-tuning
+  - [ ] Keras tuner for model hyperparameters
+  - [ ] Investigate regularization
+  - [ ] Investigate number of convolutional layers
+  - [ ] Investigate number of filters in convolutional layer
+  - [ ] Optimize pre-processing to make it more robust
+- [x] Add real-time prediction feature
 - [ ] Cleanup code
 
 ---
