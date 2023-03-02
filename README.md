@@ -29,7 +29,16 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/
 
 ## Project Status
 
+<b> Test Accuracy: </b> 
+
+![57%](https://progress-bar.dev/57)
+
+<br>
+
+<b> To-Do List </b>
+
 </div>
+
 
 - [x] Dataset mining for human emotion recognition purposes
 - [x] Data preprocessing
@@ -43,9 +52,6 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/deadskull7/
   - [ ] Add installation guidance
   - [ ] Add references
 - [ ] Keras tuner for model hyperparameters
-- [x] Achieve >50% accuracy
-- [ ] Achieve >65% accuracy
-- [ ] Achieve >85% accuracy
 - [ ] Add real-time prediction feature
 - [ ] Cleanup code
 
